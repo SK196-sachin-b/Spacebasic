@@ -1,0 +1,13 @@
+streamlit
+psycopg2-binary
+python-dotenv
+boto3
+PyPDF2
+pdfplumber
+langchain-community
+langchain-aws
+langchain-experimental
+langchain-text-splitters
+numpy
+concurrent-futures
+rank-bm25
